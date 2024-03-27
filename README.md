@@ -1,2 +1,2 @@
-# ATM-machine
+# ATM
 This is atm machine
