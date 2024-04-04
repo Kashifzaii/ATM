@@ -1,11 +1,11 @@
-
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 
 
 let myBalance = 20000; // Dollar
 let myPin = 9090;
-                                   (`--------------------------------------------`) 
+                         
 console.log(chalk.blueBright("\n \twelcome to code with Kashif - ATM Machine\n \t"));
 
 let pinAnswer = await inquirer.prompt([
