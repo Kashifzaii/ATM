@@ -1,12 +1,14 @@
 {
   "name": "atm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is atm machine",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./main.js",
+  "keywords": [],
   "author": "kashif",
   "license": "ISC",
   "dependencies": {
